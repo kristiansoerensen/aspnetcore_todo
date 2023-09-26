@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LeiizQis/A3+iO2l7QO/KDzbBBSu8Vr1P6UfKAKwz2hmvlW3S0zkpu4PxipB63VKiy+SGIaPq+sNdfO5lprsTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kristian\\source\\repos\\kristiansoerensen\\aspnetcore_todo\\TodoWebAPI\\TodoWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristian\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\Kristian\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Kristian\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Kristian\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Kristian\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Kristian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Kristian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
