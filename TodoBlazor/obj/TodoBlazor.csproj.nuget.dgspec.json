@@ -11,7 +11,7 @@
         "projectName": "TodoBlazor",
         "projectPath": "C:\\Users\\Kristian\\source\\repos\\kristiansoerensen\\aspnetcore_todo\\TodoBlazor\\TodoBlazor.csproj",
         "packagesPath": "C:\\Users\\Kristian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kristian\\Source\\Repos\\kristiansoerensen\\aspnetcore_todo\\TodoBlazor\\obj\\",
+        "outputPath": "C:\\Users\\Kristian\\source\\repos\\kristiansoerensen\\aspnetcore_todo\\TodoBlazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

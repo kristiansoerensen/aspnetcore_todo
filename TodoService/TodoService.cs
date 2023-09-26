@@ -45,9 +45,11 @@ namespace ServiceLayer
         public bool UpdateTodoItem(TodoItem todoItem)
         {
             TodoItem? updateTodoItem = _todos.FirstOrDefault(t => t.Id == todoItem.Id);
-            if (todoItem != null)
+            if (updateTodoItem != null)
             {
-                updateTodoItem = todoItem;
+                updateTodoItem.Name = todoItem.Name;
+                updateTodoItem.Description = todoItem.Description;
+                updateTodoItem.IsCompleted = todoItem.IsCompleted;
                 return true;
             }
 
